@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "menfimusbet/1.0.0": {
+        "runtime": {
+          "menfimusbet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "menfimusbet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

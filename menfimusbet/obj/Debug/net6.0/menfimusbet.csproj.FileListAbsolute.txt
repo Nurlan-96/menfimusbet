@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\bin\Debug\net6.0\menfimusbet.exe
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\bin\Debug\net6.0\menfimusbet.deps.json
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\bin\Debug\net6.0\menfimusbet.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\bin\Debug\net6.0\menfimusbet.dll
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\bin\Debug\net6.0\menfimusbet.pdb
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.dll
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\refint\menfimusbet.dll
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.pdb
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\menfimusbet.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\menfimusbet\menfimusbet\obj\Debug\net6.0\ref\menfimusbet.dll
